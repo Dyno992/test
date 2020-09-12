@@ -2,7 +2,7 @@ public class test {
 
     public static void main(String[] args) {
 
-        //code
+        System.out.println("Hello");
 
     }
 }
